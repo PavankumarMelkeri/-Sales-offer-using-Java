@@ -1,4 +1,4 @@
-Ecommerce Offer Assignment
+Ecommerce Offer
 
 
-http://localhost:8080/swagger-ui.html
+
